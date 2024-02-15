@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    align-content: space-between;
+    width:100%
+}
+body{
+    background-color: #666666;
+    font-family: "Indie Flower";
+}
+.box{
+    text-align: center;
+    width:400px;
+    height:300px;
+    font-size: 3em;
+    margin:30px;
+    margin-top:70px;
+}
+h4{
+    margin:0;
+    margin-top:70px;
+}
+p{
+    margin:0;
+}
+#one{
+    background-color: #F9FAC8;
+}
+
+#five{
+    background-color: #F9FAC8;
+}
+#seven{
+    background-color: #F9FAC8;
+}
+#two{
+    background-color: #C8FBCA;
+}
+#four{
+    background-color: #C8FBCA;
+}
+#eight{
+    background-color: #C8FBCA;
+}
+#six{
+    background-color: #C8C8F2;
+}
+#three{
+    background-color: #C8C8F2;
+}
